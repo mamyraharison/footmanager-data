@@ -1,1 +1,24 @@
-
+{
+  "reservations": [
+    {
+      "id": 1755155101626,
+      "date": "2025-08-14",
+      "time": "08:00-08:30",
+      "clientId": null,
+      "client": "Francko",
+      "phone": "0344387540",
+      "amount": 30000,
+      "paid": false,
+      "isConsecutive": false,
+      "consecutiveGroup": 1755155101626,
+      "slotNumber": 1,
+      "totalSlots": 1
+    }
+  ],
+  "transactions": [],
+  "clients": [],
+  "lastModified": "2025-08-14T07:05:01.626Z",
+  "version": 1755155101626,
+  "savedBy": "admin",
+  "appVersion": "1.0.0"
+}
