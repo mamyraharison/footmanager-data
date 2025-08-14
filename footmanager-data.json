@@ -27,6 +27,34 @@
       "consecutiveGroup": 1755155231362,
       "slotNumber": 1,
       "totalSlots": 1
+    },
+    {
+      "id": 1755156024841,
+      "date": "2025-08-14",
+      "time": "11:30-12:00",
+      "clientId": null,
+      "client": "Mamy",
+      "phone": "0347895425",
+      "amount": 30000,
+      "paid": false,
+      "isConsecutive": true,
+      "consecutiveGroup": 1755156024841,
+      "slotNumber": 1,
+      "totalSlots": 2
+    },
+    {
+      "id": 1755156024842,
+      "date": "2025-08-14",
+      "time": "12:00-12:30",
+      "clientId": null,
+      "client": "Mamy",
+      "phone": "0347895425",
+      "amount": 30000,
+      "paid": false,
+      "isConsecutive": true,
+      "consecutiveGroup": 1755156024841,
+      "slotNumber": 2,
+      "totalSlots": 2
     }
   ],
   "transactions": [
@@ -40,8 +68,8 @@
     }
   ],
   "clients": [],
-  "lastModified": "2025-08-14T07:07:14.542Z",
-  "version": 1755155234542,
+  "lastModified": "2025-08-14T07:20:24.841Z",
+  "version": 1755156024841,
   "savedBy": "admin",
   "appVersion": "1.0.0"
 }
