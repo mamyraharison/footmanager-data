@@ -8,17 +8,26 @@
       "client": "Francko",
       "phone": "0344387540",
       "amount": 30000,
-      "paid": false,
+      "paid": true,
       "isConsecutive": false,
       "consecutiveGroup": 1755155101626,
       "slotNumber": 1,
       "totalSlots": 1
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "id": 1755155153409,
+      "date": "2025-08-14",
+      "type": "income",
+      "description": "Réservation Francko",
+      "amount": 30000,
+      "category": "reservation"
+    }
+  ],
   "clients": [],
-  "lastModified": "2025-08-14T07:05:04.142Z",
-  "version": 1755155104142,
+  "lastModified": "2025-08-14T07:05:53.409Z",
+  "version": 1755155153409,
   "savedBy": "admin",
   "appVersion": "1.0.0"
 }
