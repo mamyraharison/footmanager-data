@@ -1,75 +1,9 @@
 {
-  "reservations": [
-    {
-      "id": 1755155101626,
-      "date": "2025-08-14",
-      "time": "08:00-08:30",
-      "clientId": null,
-      "client": "Francko",
-      "phone": "0344387540",
-      "amount": 30000,
-      "paid": true,
-      "isConsecutive": false,
-      "consecutiveGroup": 1755155101626,
-      "slotNumber": 1,
-      "totalSlots": 1
-    },
-    {
-      "id": 1755155231362,
-      "date": "2025-08-14",
-      "time": "08:30-09:00",
-      "clientId": null,
-      "client": "Ando",
-      "phone": "0327854624",
-      "amount": 30000,
-      "paid": false,
-      "isConsecutive": false,
-      "consecutiveGroup": 1755155231362,
-      "slotNumber": 1,
-      "totalSlots": 1
-    },
-    {
-      "id": 1755156024841,
-      "date": "2025-08-14",
-      "time": "11:30-12:00",
-      "clientId": null,
-      "client": "Mamy",
-      "phone": "0347895425",
-      "amount": 30000,
-      "paid": false,
-      "isConsecutive": true,
-      "consecutiveGroup": 1755156024841,
-      "slotNumber": 1,
-      "totalSlots": 2
-    },
-    {
-      "id": 1755156024842,
-      "date": "2025-08-14",
-      "time": "12:00-12:30",
-      "clientId": null,
-      "client": "Mamy",
-      "phone": "0347895425",
-      "amount": 30000,
-      "paid": false,
-      "isConsecutive": true,
-      "consecutiveGroup": 1755156024841,
-      "slotNumber": 2,
-      "totalSlots": 2
-    }
-  ],
-  "transactions": [
-    {
-      "id": 1755155153409,
-      "date": "2025-08-14",
-      "type": "income",
-      "description": "Réservation Francko",
-      "amount": 30000,
-      "category": "reservation"
-    }
-  ],
+  "reservations": [],
+  "transactions": [],
   "clients": [],
-  "lastModified": "2025-08-14T07:20:28.165Z",
-  "version": 1755156028165,
+  "lastModified": "2025-08-14T08:17:04.822Z",
+  "version": 1755159424822,
   "savedBy": "admin",
   "appVersion": "1.0.0"
 }
