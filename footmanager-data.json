@@ -1,9 +1,75 @@
 {
-  "reservations": [],
-  "transactions": [],
+  "reservations": [
+    {
+      "id": 1761570417003,
+      "date": "2025-10-27",
+      "time": "08:00-08:30",
+      "clientId": null,
+      "client": "test",
+      "phone": "555555555555",
+      "amount": 30000,
+      "paid": true,
+      "isConsecutive": true,
+      "consecutiveGroup": 1761570417003,
+      "slotNumber": 1,
+      "totalSlots": 4
+    },
+    {
+      "id": 1761570417004,
+      "date": "2025-10-27",
+      "time": "08:30-09:00",
+      "clientId": null,
+      "client": "test",
+      "phone": "555555555555",
+      "amount": 30000,
+      "paid": true,
+      "isConsecutive": true,
+      "consecutiveGroup": 1761570417003,
+      "slotNumber": 2,
+      "totalSlots": 4
+    },
+    {
+      "id": 1761570417005,
+      "date": "2025-10-27",
+      "time": "09:00-09:30",
+      "clientId": null,
+      "client": "test",
+      "phone": "555555555555",
+      "amount": 30000,
+      "paid": true,
+      "isConsecutive": true,
+      "consecutiveGroup": 1761570417003,
+      "slotNumber": 3,
+      "totalSlots": 4
+    },
+    {
+      "id": 1761570417006,
+      "date": "2025-10-27",
+      "time": "09:30-10:00",
+      "clientId": null,
+      "client": "test",
+      "phone": "555555555555",
+      "amount": 30000,
+      "paid": true,
+      "isConsecutive": true,
+      "consecutiveGroup": 1761570417003,
+      "slotNumber": 4,
+      "totalSlots": 4
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1761570417003,
+      "date": "2025-10-27",
+      "type": "income",
+      "description": "Réservation test (4 créneaux)",
+      "amount": 120000,
+      "category": "reservation"
+    }
+  ],
   "clients": [],
-  "lastModified": "2025-08-14T08:17:12.010Z",
-  "version": 1755159432010,
-  "savedBy": "admin",
+  "lastModified": "2025-10-27T13:07:00.719Z",
+  "version": 1761570420719,
+  "savedBy": "user",
   "appVersion": "1.0.0"
 }
